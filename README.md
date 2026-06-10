@@ -1,4 +1,4 @@
-# CMPE591 Final Project — BC + DAgger + SAC on a Lid-Box Manipulation Task
+# CMPE591 Final Project - BC + DAgger + SAC on a Lid-Box Manipulation Task
 
 A manipulator has to open the hinged lid of a box, pick up a sphere from the
 table, carry it over the box, and drop it inside. The policy is trained in
